@@ -1,2 +1,2 @@
 # AndroidMathGame
-Android Math Game made with kotlin and MVVM architecture
+Android Math-Game made with kotlin and MVVM architecture
