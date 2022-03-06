@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidMathGame</string>
+    <string name="start_new_game">Starte neues Spiel</string>
+    <string name="ergebnis">Ergebnis</string>
+    <string name="erreiche_ergebnis">Erreiche Ergebnis:</string>
+    <string name="fehlversuche">Fehlversuche:</string>
+</resources>
